@@ -1,4 +1,4 @@
-package com.karthikReddy12345.testing;
+package com.techprimers.testing;
 
 import org.junit.jupiter.api.*;
 
